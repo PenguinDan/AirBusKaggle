@@ -1,4 +1,6 @@
 Data/
 /DeepLearningShipDetection/__pycache__
 /DeepLearningShipDetection/.ipynb_checkpoints
-
+Training_Data/
+Testing_Data/
+Test_Data/
