@@ -4,3 +4,5 @@ Data/
 Training_Data/
 Testing_Data/
 Test_Data/
+__pycache__
+.ipynb_checkpoints
